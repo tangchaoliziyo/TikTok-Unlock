@@ -1,5 +1,5 @@
 #!name=TikTok 泰国
-#!desc=TikTok解锁
+#!desc=TikTok Unlock
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) TH 307
