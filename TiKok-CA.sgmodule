@@ -1,5 +1,5 @@
 #!name=TikTok 加拿大
-#!desc=TikTok解锁
+#!desc=TikTok Unlock
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) CA 307
